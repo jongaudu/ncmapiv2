@@ -1,10 +1,18 @@
 {
   "name": "ncmapiv2",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "description": "NCM APIv2",
   "main": "ncm.js",
   "author": "Jon Gaudu",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jongaudu/ncmapiv2"
+  },
+  "homepage": "https://github.com/jongaudu/ncmapiv2",
+  "keywords": ["cradlepoint", "ncm", "api", "v2"],
+  "bugs": {
+    "url": "https://github.com/jongaudu/ncmapiv2/issues"},
   "dependencies": {
     "axios": "^1.6.7",
     "lodash": "^4.17.21"
