@@ -1,0 +1,12 @@
+{
+  "name": "ncmapiv2",
+  "version": "1.0.17",
+  "description": "NCM APIv2",
+  "main": "ncm.js",
+  "author": "Jon Gaudu",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "lodash": "^4.17.21"
+  }
+}
